@@ -1,0 +1,4 @@
+<launch>
+<node pkg="beginner_tutorials" type="listener_node_in_cmake" name="listener_node_nameoverriden_in_launch" output="screen"/>
+<node pkg="beginner_tutorials" type="talker_node_in_cmake" name="talker_node_node_nameoverriden_in_launch" output="screen"/>
+</launch>
